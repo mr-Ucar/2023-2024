@@ -4,7 +4,9 @@
 
 *Adventures of Huckleberry Finn is a book written by Mark Twain, published in 1884. It is a sequel to his earlier book, Tom Sawyer.*
 
-### To my students, you can use these resources. I will also add the ebook here:
+### To my students, you can use these resources.
+You can download this book legally from here: https://www.gutenberg.org/ebooks/32325
+_I will also add the ebook here in this repo._
 
 https://simple.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn
 
