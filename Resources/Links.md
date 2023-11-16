@@ -7,6 +7,10 @@ https://quizizz.com/profile/5fe0a986ef25c1001ba68262?section=library
 
 https://quizizz.com/admin/my-library/collections/5fe43e2f6ec711001c9da551  (B1 Mavi Kitap)
 
+https://quizizz.com/join?gc=71792793
+
+https://quizizz.com/admin/quiz/63e12637b34b8a001f73d594
+
 https://quizlet.com/myonline_repo/classes
 
 https://quizlet.com/myonline_repo/folders
