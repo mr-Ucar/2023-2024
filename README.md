@@ -1,15 +1,13 @@
 # 2023-2024
 
 
-
 📚 Here, you can find some worksheet links that I have prepared for you. Generally, I send them via Google Drive links or emails, but it is also convenient to save them here on GitHub. Therefore, when needed, you can revise and study them. 📝
-
 
 
 ## Extra Resources and Exercises for my Classes 📚
  ``These are the worksheet that I prepared for you and I also added some extra resources, useful links for Writing below.``
 
-  
+ 📚 You can find some lesson-specific, unit-based worksheets that I have prepared for you here: https://github.com/mr-Ucar/2023-2024/tree/main/Resources
 
 - [Quizizz Profile](https://quizizz.com/profile/5fe0a986ef25c1001ba68262?section=library) 🎓
 - [B1 Mavi Kitap Collection](https://quizizz.com/admin/my-library/collections/5fe43e2f6ec711001c9da551) 📘
@@ -39,7 +37,6 @@
 14. [Grammarly Sentence Checker](https://www.grammarly.com/sentence-checker)
 15. [QuillBot AI Grammar Checker](https://quillbot.com/grammar-check)
 16. [Grammatically Correct Sentence Checker](https://www.sentencechecker.org/grammatically-correct-sentence-checker)
-
 
 
 
