@@ -1,6 +1,7 @@
 ### Some words from our Main Course Book _(Intermediate)_
 - Instead of writing on the board, I will add these words here and you can revise later.
-- Work in Progress. New vocabulary will be added when we covered them according to our Pacing Schedule.
+- _Work in Progress_. New vocabulary will be added after we have covered them according to our Pacing Schedule.
+- For now, the list below are from the first units of the ````English File 4th Edition Intermediate Main Course Book.````
 
 ## Set 1 
 1. **Astonished**: I was **astonished** by the beauty of the sunset. 😲
