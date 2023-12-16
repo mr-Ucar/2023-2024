@@ -1,0 +1,3 @@
+- Since we live in a digital age, we had better use tech and improve ourselves.
+- I'll add some student writen essays and my corrections, suggestions here. The aim is to learn from our mistakes and not to feel bad about our mistakes. 
+- We learn better with the help of our "mistakes". See them as opportunities and learning aids.
