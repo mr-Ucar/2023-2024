@@ -74,12 +74,17 @@
 (9) Pre-Intermediate (A2-B1) English Lessons - YouTube. https://www.youtube.com/playlist?list=PLZbwPn7vIwQwWt4otpBaXNn6mlMJS0cCv </br>
 (10) Video series | LearnEnglish. https://learnenglish.britishcouncil.org/general-english/video-series </br>
 (11) 15 Best YouTube Channels to Learn English – EnglishPost.org. https://englishpost.org/learning-english-youtube-channels/ </br>
+- **The last 3 are especially for Turkish speakers.** </br>
+(12) Çilem Akar https://www.youtube.com/@cilemakar/ </br>
+(13) _There are some good Listening Quizzez with answer key in this channel https://www.youtube.com/@English_teacher/ </br>
+(14) Bahrom Hudayar https://www.youtube.com/@bahromhudayar
 
-````
+:arrow_down:
+```` :arrow_down:
 P.S: Also check these YouTube Channels which are also great for learners of English:
 - I haven't added these as links, but you can just copy/paste in Youtube.
-````
-
+```` 
+:arrow_down:
 1. **Improve Your Accent**: 
 2. **EngVid Jade**: 
 3. **EngVid Gill**: 
