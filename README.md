@@ -40,6 +40,8 @@
 
 👋  ## YouTube channels that I can recommend to my students:
 
+````📺 Mr Ucar says: I am not affiliated with any YouTube channels. These are just humble suggestions from a teacher to his students or learners in general.````
+
 1. **Rachel's English**: This channel is great for learning English pronunciation. New videos are uploaded every Tuesday, so you'll never run short of learning content. Plus, all the video lessons have closed captioning so non-native speakers can understand, as well. The playlist "Sounds: How-To" is dedicated to helping you learn about mouth positions for each sound in American English. More advanced learners will also find the playlist "Words That Reduce" useful, as they can learn how native speakers shorten words when they talk. Rachel's videos are packed with lessons on phonetics, pronunciation, grammar, idioms, sentence usage and examples to help you learn more easily and efficiently. 
 
 2. **English with Jennifer**: This channel is a rich collection of hundreds of videos that are grouped into easy-to-use playlists. There are lessons for beginners, tips to improve your writing in English, grammar explanations and much more. What makes these videos stand out among the rest is the fresh and simple presentation and the special focus on pronunciation. There are no scripts or actors—just real, native speakers of American English. Jennifer also offers one-on-one private lessons. 
@@ -94,4 +96,7 @@ P.S: Also check these YouTube Channels which are also great for learners of Engl
 7. **British Council English**: 
 8. **Real Life English**: 
 
+📺 This YouTube channel is not related to English language, but I use it to focus and study. 
+</br> https://www.youtube.com/watch?v=E3_eIwDWS_c  (Relaxing Background Noise for Study and Work | White Noise and Library Ambience) 
 
+![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/789a8df4-473d-4d57-ab59-3254c8dd3d44) </br>
