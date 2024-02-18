@@ -19,6 +19,12 @@ The movie stars Brad Pitt and Cate Blanchett with Taraji P. Henson, Julia Ormond
 
 [The Curious Case of Benjamin Button - YouTube](https://www.youtube.com/results?search_query=The+Curious+Case+of+Benjamin+Button)
 
+[![YouTube Video](https://img.youtube.com/vi/o_1aF54DO60/0.jpg)](https://www.youtube.com/watch?v=o_1aF54DO60)
+
+[![YouTube Video](https://img.youtube.com/vi/bWXGjtOlgR4/0.jpg)](https://youtu.be/bWXGjtOlgR4)
+
+- I suggest you should also listen to the song _"Young and Beautiful"_ by **Lana Del Rey.** 
+
 
 
 # Resources:
