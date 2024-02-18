@@ -5,9 +5,20 @@
 
 ![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/3928c473-1a93-41cb-9794-bef54716d4e8)
 
+
+
 **The Curious Case of Benjamin Button** is a 2008 American fantasy romantic drama movie directed by David Fincher. 
 **It is based on the 1922 short story of the same name by F. Scott Fitzgerald.** 
 The movie stars Brad Pitt and Cate Blanchett with Taraji P. Henson, Julia Ormond, Jason Flemyng, Elias Koteas, and Tilda Swinton.
+
+[![Benjamin Button Trailer](https://img.youtube.com/vi/iH6FdW39Hag/0.jpg)](https://www.youtube.com/watch?v=iH6FdW39Hag)
+
+````Mr-Ucar says:This very short trailer can give you an idea about this movie, and I hope you will be more interested in reading this novel after watching this lovely movie.````
+
+**You can even find the full movie in YouTube but it is not recommended since it can be illegal due to copyrights, etc.**
+
+[The Curious Case of Benjamin Button - YouTube](https://www.youtube.com/results?search_query=The+Curious+Case+of+Benjamin+Button)
+
 
 
 # Resources:
