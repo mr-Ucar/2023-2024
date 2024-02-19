@@ -8,8 +8,8 @@
 
 import os
 
-# Directory containing the files
-directory = "D:\\Ydy 2024\\Github Desktop icin\\2nd Term\\2023-2024\\Resources\\2024 - 2nd Term RESOURCES\\2nd Term\\Speaking\\Resources\\INTERMEDIATE"
+# Directory containing the files. Arrange the PATH according to your Operating System structure and local path.
+directory = "D:\\Sınıflarıma\\2nd Term\\2023-2024\\Resources\\2024 - 2nd Term RESOURCES\\2nd Term\\Speaking\\Resources\\INTERMEDIATE"
 
 # Iterate over the files in the directory
 for filename in os.listdir(directory):
@@ -18,7 +18,7 @@ for filename in os.listdir(directory):
         number = filename[3:-4]
 
         # Construct the new filename
-        new_filename = f"Speaking Booklet Unit{number}.pdf"
+        new_filename = f"Speaking Booklet Unit{number}.pdf" # Or whatever you need to rename
 
         # Rename the file
         os.rename(
