@@ -16,6 +16,10 @@ b) didn't she  [✅] </br>
 
 - **Correct Option** is **"B"**  > **Angela already knew him, _didn't she?_**
 
+ </br> 
+ 
+![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/b1e55f26-ee9b-4e5e-8fe0-555fc25eea2f)
+
 ````Question tags are more common in speaking than writing.```` ❗
 
 ### We often use question tags when we expect the listener to agree with our statement. In this case, when the statement is positive, we use a negative question tag.
