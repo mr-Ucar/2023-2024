@@ -1,5 +1,12 @@
 
 
+
+_Edit: Main Course **-Upper-** Vocabulary list as  Flashcard Worksheet has been added._
+https://quizlet.com/tr/781617320/english-file-4th-edition-upperinter-key-vocabulary-of-all-units-flash-cards  
+(Burda da Main Course Upper Kitabın kelimelerini Flashcard olarak yapmıştım, faydası olur bakıp çalışına.)
+
+--- 
+
 # Önemli ve Akademik Kelime Listeleri
 
 ### Advice: Find the meanings of these words and see their  usage in context. It is your duty.
