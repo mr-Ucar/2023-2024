@@ -64,3 +64,9 @@ piece of electronic equipment.
 **8. Talk about a time when you had a problem with a piece of electronic equipment.**
    - Once, my computer crashed right before an important presentation. It was so frustrating! I had to quickly find a solution, and luckily, my instructor, Mr Ucar helped me recover my files. Since then, I always back up my important documents. I'll tell you why. Because I learnt my lesson the hard way.
 
+# After Mid-term III, according to Speaking Pacing
+
+9. **Talk about the most common crime in your country.**
+
+- In my country, as far as I know, the most common crime is "Theft". Of course, I do not have any statistics or any data but everyday, we hear theft related news. This shows that there are lots of thieves in my country, unfortunately. It is quite worrying and we need to reduce the rate of crime in our country. In my opinion, I believe the government should take stricter measures to tackle this issue. As I said before, theft is a significant concern in my country, and it affects everyone.
+  
