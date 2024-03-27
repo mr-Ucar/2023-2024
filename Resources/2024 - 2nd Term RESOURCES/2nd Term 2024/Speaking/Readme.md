@@ -69,4 +69,33 @@ piece of electronic equipment.
 9. **Talk about the most common crime in your country.**
 
 - In my country, as far as I know, the most common crime is "Theft". Of course, I do not have any statistics or any data but everyday, we hear theft related news. This shows that there are lots of thieves in my country, unfortunately. It is quite worrying and we need to reduce the rate of crime in our country. In my opinion, I believe the government should take stricter measures to tackle this issue. As I said before, theft is a significant concern in my country, and it affects everyone.
-  
+
+10. **Talk about an interesting crime story you have heard or witnessed before.**
+
+- Recently, I have heard about a strange story of fraud in Turkey. It was about a man who pretended to be a doctor even though he didn't have any medical training. He set up a fake clinic and started seeing patients, giving them fake treatments and medicine.
+The man was very convincing. He wore a white coat and acted like a real doctor, so people believed he was a real doctor. He even had fake diplomas on the walls of his clinic to make it look official.
+People started to suspect something was wrong when some of the patients didn't get better or felt worse after seeing him. They reported him to the police, and an investigation began.
+It turned out that the man had been scamming people for a long time, taking their money and giving them fake treatments. He was arrested and charged with fraud, and the fake clinic was shut down.
+This story was interesting because it showed how easily people can be fooled by someone pretending to be something they're not. It also reminded me to always be careful.
+
+
+11. **Talk about your Dream Job** 
+
+- My dream job is to be an engineer. I really like figuring out how things work, like buildings and machines. Engineers design and make useful stuff that helps people in their daily lives.
+I want to be an engineer because I enjoy solving problems. It's fun to think of ways to fix things and make them better. Engineers need to be creative and come up with smart solutions.
+Being an engineer lets me help others and make a difference. I want to work on projects that make the world a better place, like making buildings safer or finding new ways to use clean energy.
+Also, I like that engineering offers lots of chances to learn new things. There are many types of engineering, like building bridges or making computers. I want to keep learning and growing in my job.
+So, that's why being an engineer is my dream job. I like solving problems, helping people, and learning new things. I hope I can become a great engineer one day.
+
+
+12. **Talk about the most positive person you know.**
+    
+- The most positive person I know is Eren. He is my close friend and also classmate. He will study Computer Engineering next year. Now I can talk about why I find him positive. Well, to begin with, he always has a big smile on his face and finds the good in every situation.
+Eren is positive because he believes in himself and others. He encourages me and everyone around him to do our best and never give up, even when things get tough. Everybody in my class loves him since he is very positive and helpful. 
+No matter what happens, Eren stays cheerful and hopeful. He believes that everything happens for a reason and that there's always something to be grateful for.
+Eren's positivity is _contagious_. Whenever I'm feeling down, he lifts my spirits and helps me see things in a brighter light.
+I admire Eren for his positive attitude and how he spreads happiness wherever he goes. _To sum up, he is the most positive person that I know._
+
+  - ### Note to my students: contagious means "bulaşıcı" in Turkish. A **contagious** feeling spreads quickly among people: 
+  - **contagious:** _etrafa çabucak yayılan, başkalarına geçen._
+````contagious laughter: herkesi coşturan gülme.````
