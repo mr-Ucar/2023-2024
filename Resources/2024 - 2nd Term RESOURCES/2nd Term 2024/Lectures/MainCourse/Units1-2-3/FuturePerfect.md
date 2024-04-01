@@ -3,7 +3,9 @@
 
 ![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/10533c2f-0fd9-4f06-8b8a-2064bda4116f)
 
-# Example Sentences with Future Perfect
+![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/930e9224-1039-4b07-927f-cb7b377a595e)
+
+# More Example Sentences with the Future Perfect Tense
 
 1. By the end of the year, they will have finished constructing the new bridge.
 2. By the time you return from your vacation, I will have completed all the paperwork.
