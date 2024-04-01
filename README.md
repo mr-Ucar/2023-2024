@@ -21,6 +21,13 @@ https://github.com/mr-Ucar/2023-2024/tree/main/Resources/2024%20-%202nd%20Term%2
 - [Vocabulary List](https://www.vocabulary.com/lists/1418074) 📖
 - [Vocabulary Profile](https://www.vocabulary.com/profiles/A0FYQKL0CCYKLC) 👤
 
+# Online Dictionary 📖 Suggestions 🔎
+### (The links below are the ones I use and recommend to my students since they are reliable and handy. TIP: Better to use the Web Browser Brave or Firefox, Google Chrome with the UBlock Origin AdBlock in order to get rid of the ads on these websites.)
+- https://www.ldoceonline.com/dictionary/
+- https://tureng.com/en/turkish-english
+- https://dictionary.cambridge.org/tr/
+- https://www.merriam-webster.com/
+- https://www.oxfordlearnersdictionaries.com/
 
 ## Useful Links for Writing ✍️
 
