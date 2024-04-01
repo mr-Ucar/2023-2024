@@ -1,0 +1,15 @@
+
+![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/909a1545-b049-4edc-b5b5-57f48eddbccd)
+
+# Example Sentences with Future Perfect
+
+1. By the end of the year, they will have finished constructing the new bridge.
+2. By the time you return from your vacation, I will have completed all the paperwork.
+3. By next month, she will have written her novel.
+4. By the time the party starts, he will have decorated the entire house.
+5. By the time they arrive, we will have cooked dinner.
+6. By next summer, she will have traveled to every continent.
+7. By the time he wakes up, I will have already prepared breakfast.
+8. By the end of the week, they will have sold all their remaining inventory.
+9. By the time the movie finishes, we will have eaten all the popcorn.
+10. By this time tomorrow, I will have completed the marathon.
