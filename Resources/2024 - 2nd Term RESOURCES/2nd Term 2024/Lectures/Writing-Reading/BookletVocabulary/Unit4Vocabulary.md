@@ -8,7 +8,9 @@
 --- 
 
 
-
+## Vocabulary 
+### SET 1
+--- 
 ```markdown
 
 **alleviate (v)**  
@@ -41,5 +43,8 @@
 - The sluggish economy led to layoffs and reduced consumer spending.  
  *Turkish Meaning:* Ağır işleyen, normalden daha yavaş hareket eden veya tepki veren, enerji veya uyanıklık eksikliği gösteren.
 ```
+--- 
 
 ![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/55a4d96d-d523-4e62-9804-bad509906681)
+
+![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/70e1e55c-a8d8-4a7d-a2d7-9491991362be)
