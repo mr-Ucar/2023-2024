@@ -2,6 +2,16 @@
 
 # Cause and Effect Essay _(Reason and Result Essays)_
 
+The **cause-and-effect essay** analyzes the _causes_, **or** the _effects_, **or** the causes **and** _effects_ of
+an event or situation.
+
+● **Causes** are _reasons_ for an event or situation. </br>
+● **Effects** are the _results_ of an event or situation.
+
+![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/431ca410-5d04-4838-ab14-788fd7ae76af)
+
+![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/93b1c989-cd1f-4822-a949-3946246ae6c8)
+
 ### A Possible Structure of "Cause and/or Effect" Essay
 ![image](https://github.com/mr-Ucar/2023-2024/assets/116120748/43009b1d-e10d-407f-832c-3ed848683ae0)
 
