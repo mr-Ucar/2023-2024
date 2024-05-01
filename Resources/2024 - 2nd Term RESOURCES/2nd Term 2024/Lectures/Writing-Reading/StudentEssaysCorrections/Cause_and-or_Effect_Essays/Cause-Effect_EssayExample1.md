@@ -22,7 +22,7 @@ This is completely right. When the air is gloomy, I feel lethargic. **Another re
          
   **Now, I will explain the results of this issue.** Our movements and desires are different in different weather conditions. </br>
 For example, when the weather is bad, I cannot do any work, I do not want to go out, and I think about gloomy things. </br>
-**On the other hand,** when the air is good and lively, I am active and talkative. I make lots of plans. I approach everything more positively. **There are also some research and data which show the relationship between our mood and the weather, seasons, etc.** </br>
+**On the other hand,** when the air is good and lively, I am active and talkative. I make lots of plans. I approach everything more positively. **There is also some research and data which shows the relationship between our mood and the weather, seasons, etc.** </br>
 
 </br>
 
